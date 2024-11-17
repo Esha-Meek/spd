@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.logo{
+    background-color: rgb(112, 174, 201);
+    border: 2px solid;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rrr{
+    margin-bottom: 0%;
+    text-align: center;
+    font-size: 25px;
+}
+.rrr em{
+    color: bisque;
+    text-shadow: 2px 2px 2px black;
+    font-size: 35px;
+}
+nav{
+    text-decoration: none;
+}
+img{
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 380px;
+    display: flex;
+}
+img:hover{
+    border: 10px solid black;
+}
